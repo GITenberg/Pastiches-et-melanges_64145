@@ -1,0 +1,28 @@
+_repo: Pastiches-et-melanges_64145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Proust, Marcel
+    birthdate: 1871
+    deathdate: 1922
+    gutenberg_agent_id: '987'
+    url: http://www.gutenberg.org/2009/agents/987
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Marcel_Proust
+    - https://en.wikipedia.org/wiki/Marcel_Proust
+description: ''
+gutenberg_issued: '2020-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64145'
+  lccn: '20002033'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: Pastiches et mélanges
+url: http://www.gutenberg.org/ebooks/64145
